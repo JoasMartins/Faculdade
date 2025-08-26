@@ -48,21 +48,23 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na **Estácio**.
 Tenho interesse em **Desenvolvimento Fullstack** e **Ciência de Dados**.
 Este repositório é parte da minha jornada acadêmica e de aprendizado contínuo.
 
-Iniciei minha jornada acadêmica em 08/2025 mas já estou na área desde 06/2020, no meio da pandemia, onde sofremos com a falta de ferramentas para estudos nas escolas de ensino médio e básico. Diante criei soluções entrando no mercado de T.I, com meu primeiro projeto sendo **BOT para Discord**, com funções para gerenciar a entregar de atividades dos professores aos alunos.
+Iniciei minha jornada acadêmica em 08/2025 mas já estou na área desde 06/2020, no meio da pandemia, onde sofremos com a falta de ferramentas para estudos nas escolas de ensino médio e básico. Diante disso, criei soluções, entrando no mercado de T.I, com meu primeiro projeto sendo **BOT para Discord**, com funções para gerenciar as entregas de atividades dos professores aos alunos.
 
 Após este projeto, me aprofundei mais na área, e hoje tenho conhecimento e experiência em **desenvolvimento de sites**, **aplicativos mobile e desktop**, **API e sistemas**, **banco de dados**, **modelos de IA**, **Chatbots**, entre outros projetos.
+
 Com isso, aprendi a utilizar linguagens e tecnologias como **React**, **React Native**, **NextJS**, **NodeJS**, **TypeScript/JavaScript**, **Python**, **HTML/CSS**, **Electron**, **MongoDB**, entre outras ferramentas.
+
 Também me familiarizei com a **Arquitetura de Softwares**, utilizando ferramentas de planejamento e gestão de desenvolvimento de softwares, como **Trello**, **Github**, **GitFlow** e principalmente **ClickUp**.
 
 ---
 
 ## 💻 Projetos
 
-Atualmente possuo o site da **Applicco Apps** publicado, podendo ser acessado em [www.applicco.com.br](www.applicco.com.br).
+Atualmente possuo o site da **Applicco Apps** publicado, podendo ser acessado em www.applicco.com.br.
 
 ---
 
 ## 📫 Contato
 
-- [LinkedIn](www.linkedin.com/in/joasmc)  
+- (www.linkedin.com/in/joasmc)  
 - [E-mail](mailto:joasmcarmo@gmail.com)  
