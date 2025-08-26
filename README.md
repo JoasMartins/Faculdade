@@ -66,5 +66,5 @@ Atualmente possuo o site da **Applicco Apps** publicado, podendo ser acessado em
 
 ## 📫 Contato
 
-- (www.linkedin.com/in/joasmc)  
+- Linkedin: www.linkedin.com/in/joasmc
 - [E-mail](mailto:joasmcarmo@gmail.com)  
